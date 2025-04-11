@@ -49,7 +49,7 @@ At MAPPA.ai, I actively contribute to the development of **machine learning mode
 ### 🔬 Projects & Highlights
 
 - 🧠 **ML & LLM Projects @ MAPPA.ai**  
-  Developing and deploying scalable ML pipelines, LLM prompts, and deep learning models for real-world applications in computer vision and NLP.
+  Developing and deploying scalable ML pipelines, LLM prompts, and deep learning models for real-world applications in voice analysis and NLP.
 
 - 🚚 **Delivery Fleet Optimization @ Walmart Chile**  
   Built a deterministic linear programming model to optimize fleet allocation based on demand forecasts.
