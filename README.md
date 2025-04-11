@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felipe Terraza
 
-**Data Engineer | Data Scientist | Machine Learning Developer | Prompt Engineer @ [MAPPA.ai](https://mappa.ai)**  
+**Data Engineer | Data Scientist | Machine Learning Developer | Data Engineer @ [MAPPA.ai](https://mappa.ai)**  
 📍 Santiago, Chile | 📧 f.terraza98@gmail.com
 
 ---
