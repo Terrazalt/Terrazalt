@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felipe Terraza
 
-**Data Engineer | Data Scientist | Machine Learning Developer | Data Engineer @ [MAPPA.ai](https://mappa.ai)**  
+**Data Engineer | Data Scientist | Machine Learning Developer**  
 📍 Santiago, Chile | 📧 f.terraza98@gmail.com
 
 ---
@@ -9,7 +9,7 @@
 
 I’m a passionate **Industrial Engineer** and current **Master’s student in Information Technologies at Universidad de Chile**, focused on building intelligent systems that drive strategic decisions and digital transformation.
 
-At MAPPA.ai, I actively contribute to the development of **machine learning models**, **prompt engineering for LLMs**, and **deep learning solutions**. With a background in the **retail and banking industries**, I’ve developed scalable tools, optimized business processes, and collaborated across multidisciplinary teams to deliver impactful insights.
+I actively contribute to the development of **machine learning models**, **prompt engineering for LLMs**, and **deep learning solutions**. With a background in the **retail and banking industries**, I’ve developed scalable tools, optimized business processes, and collaborated across multidisciplinary teams to deliver impactful insights.
 
 ---
 
