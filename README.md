@@ -48,7 +48,7 @@ I actively contribute to the development of **machine learning models**, **promp
 
 ### 🔬 Projects & Highlights
 
-- 🧠 **ML & LLM Projects @ MAPPA.ai**  
+- 🧠 **ML & LLM Projects**  
   Developing and deploying scalable ML pipelines, LLM prompts, and deep learning models for real-world applications in voice analysis and NLP.
 
 - 🚚 **Delivery Fleet Optimization @ Walmart Chile**  
